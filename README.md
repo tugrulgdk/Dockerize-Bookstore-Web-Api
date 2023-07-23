@@ -1,1 +1,1 @@
-# bookstore-web-api
+# bookstore-repo
